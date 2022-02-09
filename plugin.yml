@@ -2,4 +2,12 @@ name: CoreHub
 api: 4.0.8
 author: zNotMC
 main: Hub\Main
-version: 0.1.0-Beta
+version: 0.0.1-Beta
+website: https://github.com/zNotMC
+commands:
+  chat:
+    description: chat mute or chat clean
+    permission: chat.command.use
+permissions:
+  chat.command.use:
+    default: op
