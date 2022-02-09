@@ -1,0 +1,27 @@
+---
+server_name: "§6CoreHub"
+
+ip1: ""
+port1: ""
+
+ip2: ""
+port2: ""
+
+ip3: ""
+port3: ""
+
+
+Rank_1: ""
+
+Rank_2: ""
+
+Rank_3: ""
+
+Rank_4: ""
+
+Rank_5: ""
+
+
+# It's highly suggested to not change the below "global-mute" unl;ess you know what you are doing.
+global-mute: true
+...
