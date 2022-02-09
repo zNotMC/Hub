@@ -2,7 +2,7 @@ name: CoreHub
 api: 4.0.8
 author: zNotMC
 main: Hub\Main
-version: 0.0.1-Beta
+version: 1.0.0
 website: https://github.com/zNotMC
 commands:
   chat:
